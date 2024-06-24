@@ -1,4 +1,4 @@
-aiohttp
+aiohttp==3.8.1
 aiofiles
 aioshutil
 anytree==2.8.0
@@ -11,12 +11,12 @@ cloudscraper
 cryptography
 dnspython
 feedparser
-flask
+flask==2.2.2
 gevent
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-gunicorn
+gunicorn==20.1.0
 git+https://github.com/zevtyardt/lk21.git
 httpx
 langcodes[data]
